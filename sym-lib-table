@@ -1,0 +1,13 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RASPBERRY_PI_PICO_W")(type "KiCad")(uri "/Users/saarthakagarwal/Downloads/RASPBERRY_PI_PICO_W/RASPBERRY_PI_PICO_W.kicad_sym")(options "")(descr ""))
+  (lib (name "MPU6050")(type "KiCad")(uri "${KIPRJMOD}/MPU6050.kicad_sym")(options "")(descr ""))
+  (lib (name "ESC")(type "KiCad")(uri "${KIPRJMOD}/ESC.kicad_sym")(options "")(descr ""))
+  (lib (name "Small_buck")(type "KiCad")(uri "${KIPRJMOD}/Small_buck.kicad_sym")(options "")(descr ""))
+  (lib (name "Small_relay")(type "KiCad")(uri "${KIPRJMOD}/Small_relay.kicad_sym")(options "")(descr ""))
+  (lib (name "Big_Buck")(type "KiCad")(uri "${KIPRJMOD}/Big_Buck.kicad_sym")(options "")(descr ""))
+  (lib (name "Big_Relay")(type "KiCad")(uri "${KIPRJMOD}/Big_Relay.kicad_sym")(options "")(descr ""))
+  (lib (name "Depth_sensor")(type "KiCad")(uri "${KIPRJMOD}/Depth_sensor.kicad_sym")(options "")(descr ""))
+  (lib (name "Reed_Switch_Module")(type "KiCad")(uri "${KIPRJMOD}/Reed_Switch_Module.kicad_sym")(options "")(descr ""))
+  (lib (name "Jetson")(type "KiCad")(uri "${KIPRJMOD}/Jetson.kicad_sym")(options "")(descr ""))
+)
